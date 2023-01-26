@@ -1,0 +1,34 @@
+img{
+    width: 100%;
+    height: 100%;
+}
+.row{
+    height: 500px;
+    margin-bottom: 5px;
+}
+.my-secdent-colum{
+    display: flex;
+    gap: 5px;
+
+}
+.my-secdent-colum > div {
+    flex: 1;
+}
+.third-repo{
+    display: flex;
+    gap: 5px;
+}
+.third-repo > div {
+    flex: 1;
+}
+.second-colum-third{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 5px;
+}
+
+@media screen  and (max-width:576px) {
+    
+}
+
+
