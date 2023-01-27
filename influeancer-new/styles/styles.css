@@ -56,17 +56,19 @@ body{
   }
   /* image icon position ar kag */
   .online-icon{
-    margin-left: 265px;
-    background-color: #E02C6D;
-    
+    margin-left: 270px;
+    margin-right: 270px;
+    margin-top: -160px;
+    background-color: #fff4f8;
   }
 .all-img{
     padding: 26px;
-    padding-right: 10px;
-    gap: 32px;
-  }
-  .imagess{
-    width: 100px;
+    padding-left: 60px;
     
+   
+    
+  }
+img{
+    right: 230px; 
     
   }
