@@ -1,0 +1,72 @@
+body{
+    background: white;
+    font-family: 'Poppins', sans-serif;
+}
+/* header ar kag */
+.head{
+    display: flex;
+    
+}
+.header-title{
+    font-size: 24px;
+    padding: 45px 120px;
+    line-height: 36px; 
+}
+.menu {
+    display: flex;
+    padding-left: 850px;
+    list-style: none;
+    gap: 40px;
+    font-size: 20px;
+    margin-top: 60px;
+  }
+
+  /* body ar kag stary */
+.ext-body{
+    display: flex;
+}
+.body-top{
+    margin: 285px 120px;
+    
+  }
+.start-taitel{
+    font-weight: 700;
+    font-size: 52px;
+    margin-top: -80px;
+    
+  }
+.primary{
+    font-size: 16px;
+    margin-right: 519px;
+    margin-top: -25px; 
+  }
+  .now{
+    background: #E02C6D;
+    border-radius: 41px;
+    padding: 10px 24px;
+    margin-right: 740px;
+    font-size: 20px;
+  }
+  .images{
+   margin-top: 114px;
+   margin-right: 600px;
+   background-image: url(../images/Circle\ design.svg);
+   background-repeat: no-repeat;
+
+  }
+  /* image icon position ar kag */
+  .online-icon{
+    margin-left: 265px;
+    background-color: #E02C6D;
+    
+  }
+.all-img{
+    padding: 26px;
+    padding-right: 10px;
+    gap: 32px;
+  }
+  .imagess{
+    width: 100px;
+    
+    
+  }
