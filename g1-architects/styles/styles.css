@@ -79,11 +79,11 @@ line-height: 26px;
 margin-top: 30px;
 margin-right: 180px;
 }
-.btn-primaryi{
+.btn-primaryi0{
     
     
 }
-.button{
+.button1{
     background: #FF900E;
     padding: 15px;
     border-radius: 8px;
@@ -92,6 +92,7 @@ margin-right: 180px;
     font-size: 20px;
     text-align: center;
     color: #FFFFFF; 
+    margin-top: 220px;
 }
 
 /* section high-contain ar kag */
@@ -159,5 +160,41 @@ margin-left: 166px;
     font-weight: 500;
     color: #FFFFFF; 
 }
-
+/* 2nd articles */
+.container-taitle{
+    margin-top: 100px;
+    height: 46px;
+}
+.topp{
+    font-weight: 700;
+    font-size: 45px;
+    width: 268px;
+    line-height: 53px;
+    margin-left: 240px;
+}
+.top-pp{
+    font-weight: 400;
+    font-size: 16px;
+    color: #727272;
+    line-height: 26px;
+    margin-left: 240px;
+    width: 542px;
+    }
+    /* all websights-1 */
+.websights-1{
+    display: flex;
+    margin: 170px 230px;
+    
+}
+.websights img{
+   
+}
+/* footer ar kag */
+.footer{
+    width: 620px;
+    text-align: center;
+    margin-left: 500px;
+    background-color: antiquewhite;
+    padding: 20px 100px;
+}
 
