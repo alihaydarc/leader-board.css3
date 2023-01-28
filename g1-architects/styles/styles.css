@@ -2,6 +2,9 @@
     margin: 0;
     font-family: 'Work Sans', sans-serif;
 }
+
+/* header ar kag */
+
 .header{
     background: rgb(236, 220, 190);
     padding: 1px;
@@ -10,7 +13,6 @@ nav{
     display: flex;
     justify-content: space-between;
     margin: 50px 200px;
-    
 }
 nav ul{
     display: flex;
@@ -34,10 +36,9 @@ margin-left: 450px;
 }
 .header-text{
     width: 868px;
-height: 52px;font-size: 16px;
-line-height: 26px;
-margin-left: 450px;
-
+    height: 52px;font-size: 16px;
+    line-height: 26px;
+    margin-left: 450px;
 }
 .btn-primary{
     margin: 50px;
@@ -53,3 +54,44 @@ margin-left: 450px;
     border-radius: 8px;
     padding: 40px;
 }
+/* artigle ar kag */
+.container{
+    display: flex;
+}
+.images{
+    padding: 30px;
+    margin-left: 150px;
+}
+.container-taitle{
+    margin-top: 200px;
+    height: 246px;
+    
+}
+.top{
+    font-weight: 500;
+    font-size: 45px;
+    width: 468px;
+}
+.top-p{
+    font-weight: 400;
+font-size: 16px;
+color: #727272;
+line-height: 26px;
+margin-top: 30px;
+margin-right: 180px;
+}
+.btn-primaryi{
+    
+    
+}
+.button{
+    background: #FF900E;
+    padding: 15px;
+    border-radius: 8px;
+    border: none;
+    font-weight: 600;
+    font-size: 20px;
+    text-align: center;
+    color: #FFFFFF; 
+}
+
